@@ -1,0 +1,2 @@
+# SEGroupProject
+Singulart Art Discovery
